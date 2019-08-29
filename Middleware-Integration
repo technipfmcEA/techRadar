@@ -1,0 +1,22 @@
+
+name,ring,quadrant,isNew,description
+New SAP Process Integration,adopt,tools,FALSE,SAP PI is the standard fr integrating SAP system with any other SAP and non SAP systems.
+SAP CPI,adopt,tools,TRUE,SAP CPI is he latest cloud integration offering from SAP. Is also preferred tool for the enterprise B2B integration
+Microsoft BizTalk,adopt,tools,FALSE,BizTalk is the integration engine for any non sap to non sap integrations
+Microsoft SSIS,adopt,tools,FALSE,TechnipFMC data integration tool
+IIS/Apache/OHS,adopt,platforms,FALSE,TechnipFMC approved webserver technology
+Apache Kafka,trial,platforms,TRUE,Apache kafka is a data dtreaming integration platform
+iPaaS Solution,assess,languages & frameworks,TRUE,Assessment is in progress for new iPaaS solution
+Test Software,hold,techniques,FALSE,This is on hold
+Cloud Foundry,trial,platforms,TRUE,Cloud Enablement
+Alation,trial,tools,TRUE,Data Catalog
+Trifacta,trial,tools,TRUE,Data Preparation
+Attunity,trial,tools,TRUE,Data Replication
+Tibco Spotfire/Statistica,trial,tools,TRUE,Data Visualization
+Splice Machine,trial,tools,TRUE,Data Warehouse
+Oracle Exadata,trial,tools,TRUE,Data Warehouse
+SAP BI on HANA,adopt,tools,FALSE,Data Warehouse
+Hortonworks Hadoop,adopt,tools,TRUE,Enterprise Digital Data Platform
+Hartonworks Data Flow,adopt,tools,TRUE,Enterprise Digital Data Platform
+Amazon Web Services (AWS),adopt,platforms,TRUE,Enterprise Digital Data Platform
+SAP API Management,adopt,tools,TRUE,Enterprise API Hub
