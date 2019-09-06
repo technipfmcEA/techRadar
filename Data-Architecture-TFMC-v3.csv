@@ -1,4 +1,4 @@
-﻿Name,Ring,Quadrant,isNew,Description
+﻿name,ring,quadrant,isNew,description
 iPaaS Solution,assess,languages & frameworks,TRUE,Assessment is in progress for new iPaaS solution
 Alation,trial,tools,FALSE,Alation is a Data Catalog which enables everyone in the organisation to find easily the Data they need to colaborate
 Trifacta,trial,tools,FALSE,Trifacta is a Data Wrangling software. It prepares Data for the treatment or analysis needed
