@@ -1,8 +1,0 @@
-﻿Name,Ring,Quadrant,isNew,Description,Column1,kjl
-SAP Process Integration,adopt,tools,FALSE,SAP PI is the standard fr integrating SAP system with any other SAP and non SAP systems.,Middleware & Integration,
-SAP CPI,adopt,tools,TRUE,SAP CPI is he latest cloud integration offering from SAP. Is also preferred tool for the enterprise B2B integration,Middleware & Integration,
-Microsoft BizTalk,adopt,tools,FALSE,BizTalk is the integration engine for any non sap to non sap integrations,Middleware & Integration,
-Microsoft SSIS,adopt,tools,FALSE,TechnipFMC data integration tool,Middleware & Integration,
-IIS/Apache/OHS,adopt,platforms,FALSE,TechnipFMC approved webserver technology,Application Infrastructure,
-Oracle weblogic,adopt,platforms,FALSE,Application server,,
-Jboss,adopt,platforms,FALSE,Application server,,
